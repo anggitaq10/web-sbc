@@ -1,0 +1,1 @@
+<?php $koneksi=new mysqli("localhost", "root","","skin_beauty_care"); ?>
